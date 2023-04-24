@@ -28,7 +28,7 @@ public class StudentService {
             }
         }
         if (!exist) {
-            System.out.println("There isn't student: " + firstName + " " + secondName);
+            System.out.println("This is not a student: " + firstName + " " + secondName);
         }
     }
 

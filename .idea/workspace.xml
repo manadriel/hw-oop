@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f846bb42-a5c0-4673-b05b-a22c73da51e1" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/GriffindorStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HogwartsStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HufflepuffStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RavenclawStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SlytherinStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f846bb42-a5c0-4673-b05b-a22c73da51e1" name="Changes" comment="wh done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +19,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6f05717b-94f0-431e-bd14-048d51f1750a" />
+        <option name="url" value="https://github.com/manadriel/hw-oop.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682353716271</updated>
-      <workItem from="1682353717580" duration="2896000" />
+      <workItem from="1682353717580" duration="2982000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682354123666</created>
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682354123666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="wh done">
+      <created>1682356919599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682356919599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="wh done" />
+    <option name="LAST_COMMIT_MESSAGE" value="wh done" />
   </component>
 </project>
